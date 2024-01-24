@@ -1,3 +1,4 @@
+//Del 1
 const recipeName = document.getElementById('recipe-name').innerText;
 console.log('Recipe Name:', recipeName);
 
@@ -33,3 +34,4 @@ instructionElements.forEach((instruction, index) => {
   });
 });
 console.log('Instructions Array:', instructionArray);
+//***************************************************************************** */
